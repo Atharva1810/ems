@@ -17,7 +17,7 @@ public class EMS {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        new index();
+        new index().setVisible(true);
     }
     
 }
